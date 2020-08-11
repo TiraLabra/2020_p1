@@ -1,5 +1,5 @@
 const timing = {
-    "start": {"date": "2020-07-22", "fi": "Aloitusluento", "en": "Mandatory lecture", "common": "14-16 Zoom"},
+    "start": {"date": "2020-09-02", "fi": "Aloitusluento", "en": "Mandatory lecture", "common": "12-14 Zoom"},
     /*"paja1": {"date": "2020-03-12", "en": "Workshop", "fi": "Paja", "common": "14-16 BK107"},
     "paja2": {"date": "2020-03-19", "en": "Workshop", "fi": "Paja", "common": "14-16 BK107"},
     "paja3": {"date": "2020-03-26", "en": "Workshop", "fi": "Paja", "common": "14-16 BK107"},
@@ -7,15 +7,15 @@ const timing = {
     "paja5": {"date": "2020-04-16", "en": "Workshop", "fi": "Paja", "common": "14-16 BK107"},
     "paja6": {"date": "2020-04-23", "en": "Workshop", "fi": "Paja", "common": "14-16 BK107"},
     "paja7": {"date": "2020-04-30", "en": "Workshop", "fi": "Paja", "common": "14-16 BK107"},*/
-    "dl1": {"date": "2020-07-25T01:59:59+02:00", "en": "DL 1", "fi": "DL 1"},
-    "dl2": {"date": "2020-08-01T01:59:59+02:00", "en": "DL 2", "fi": "DL 2"},
-    "dl3": {"date": "2020-08-08T01:59:59+02:00", "en": "DL 3", "fi": "DL 3"},
-    "dl4": {"date": "2020-08-15T01:59:59+02:00", "en": "DL 4", "fi": "DL 4"},
-    "dl5": {"date": "2020-08-22T01:59:59+02:00", "en": "DL 5", "fi": "DL 5"},
-    "dl6": {"date": "2020-08-29T01:59:59+02:00", "en": "DL 6", "fi": "DL 6"},
+    "dl1": {"date": "2020-09-05T01:59:59+02:00", "en": "DL 1", "fi": "DL 1"},
+    "dl2": {"date": "2020-09-12T01:59:59+02:00", "en": "DL 2", "fi": "DL 2"},
+    "dl3": {"date": "2020-09-19T01:59:59+02:00", "en": "DL 3", "fi": "DL 3"},
+    "dl4": {"date": "2020-09-26T01:59:59+02:00", "en": "DL 4", "fi": "DL 4"},
+    "dl5": {"date": "2020-10-03T01:59:59+02:00", "en": "DL 5", "fi": "DL 5"},
+    "dl6": {"date": "2020-10-10T01:59:59+02:00", "en": "DL 6", "fi": "DL 6"},
     /*"demo": {"date": "2020-06-24", "fi": "Demotilaisuus", "en": "Demo Session", "common": "12-14 Zoom"},
     "demo2": {"date": "2020-06-24", "fi": "Demotilaisuus", "en": "Demo Session", "common": "16-18 Zoom"},*/
-    "end": {"date": "2020-09-05T23:59:59+02:00", "en": "Final submission", "fi": "Loppupalautus"}
+    "end": {"date": "2020-10-17T23:59:59+02:00", "en": "Final submission", "fi": "Loppupalautus"}
 };
 
 const doodleSent = false;
@@ -33,8 +33,8 @@ Available fields for TAs:
 */
 const tas = [
     //{"name": "Matti Nykänen", "email": "matti@matti.fi", "fiSocial": "maatti @IRCnet", "enSocial": "TG: @mattimatti"},
-    {"name": "Hannu Kärnä", "social": "TG: Hannu Kärnä"},
-    {"name": "Saska Dönges", "social": "TG: @saskeli"},
+    {"name": "Hannu Kärnä (fi)", "social": "TG: Hannu Kärnä"},
+    {"name": "Saska Dönges (en)", "social": "TG: @saskeli"},
 ];
 
 const enDays = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];

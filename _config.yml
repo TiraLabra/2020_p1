@@ -1,10 +1,10 @@
-title: "Tiralabra - 2020 loppukesä"
-entitle: "Data Structures Project, 2020 end of summer"
+title: "Tiralabra - 2020 p1"
+entitle: "Data Structures Lab, 2020 p1"
 email: ''
 description: "Helsingin yliopiston Aineopintojen harjoitustyö: Tietorakenteet ja algoritmit - kurssin kurssisivu"
 endescription: "Course page for the Data Structures Project course at the University of Helsinki"
-baseurl: '/loppukesa_2020' # the subpath of your site, e.g. /blog
-url: https://tiralabra.github.io/loppukesa_2020/ # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/2020_p1' # the subpath of your site, e.g. /blog
+url: https://tiralabra.github.io/2020_p1/ # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
