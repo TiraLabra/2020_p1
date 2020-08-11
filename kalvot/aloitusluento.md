@@ -1,6 +1,6 @@
 % Aineopintojen harjoitustyö: Tietorakenteet ja algoritmit (Tiralabra)
 % Hannu Kärnä
-% 22.7.2020
+% 2.9.2020
 
 # Ohjaajat
 
@@ -10,7 +10,7 @@
 - Yhteyttä sähköpostilla tai telegrammissa kurssikanavalla
 
 - Telegram-kanava https://t.me/tkttiralabra/
-- Kurssisivu https://tiralabra.github.io/loppukesa_2020/
+- Kurssisivu https://tiralabra.github.io/2020_p1/
 
 # Mistä kyse?
 
@@ -114,6 +114,6 @@
 # Kiitos!
 
 - **Tervetuloa kurssille!**
-- Kaikki tarvittava löytyy kurssisivulta: https://tiralabra.github.io/loppukesa_2020/
+- Kaikki tarvittava löytyy kurssisivulta: https://tiralabra.github.io/2020_p1/
     - Kannattaa käydä koko sivusto läpi tarkkaan!
 - Jään hetkeksi paikalle luennon jälkeen vastailemaan kysymyksiin
