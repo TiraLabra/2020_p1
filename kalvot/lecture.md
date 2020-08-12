@@ -5,8 +5,8 @@
 # Course assistants
 
 - Course assistants
-    - Saska Dönges -- **saskeli** -- etunimi.sukunimi@helsinki.fi
-    - Hannu Kärnä -- etunimi.sukunimi@helsinki.fi
+    - Saska Dönges -- **saskeli** -- first-name.last-name@helsinki.fi
+    - Hannu Kärnä -- first_name.last_name@helsinki.fi
 - Contact via e-mail or the course telegram channel
 
 - Telegram channel https://t.me/tkttiralabra/ (will contain discourse in Finnish)
