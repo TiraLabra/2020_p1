@@ -71,9 +71,7 @@
 
 # Kurssin kulku
 
-<!--
-- Viikottaisten ohjaus torstaisin aikataulun mukaan luokassa BK107 -->
-- Pajaohjausta ei toistaiseksi voida järjestää
+- Viikottaisten ohjaus maanantaisin ja tiistaisin aikataulun mukaan zoomissa
     - Yksilöohjausta voidaan järjestää pyynnöstä kampuksella / Zoomissa
     - Täysin vapaaehtoista
     - **Paras väylä saada apua ja palautetta ohjaajilta**
