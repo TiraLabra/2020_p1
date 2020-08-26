@@ -8,7 +8,7 @@ const timing = {
     "paja6": {"date": "2020-09-22", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"},
     "paja7": {"date": "2020-09-28", "en": "Workshop", "fi": "Paja", "common": "12-14 & 16-18 Zoom"},
     "paja8": {"date": "2020-09-29", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"},
-    "paja9": {"date": "2020-10-04", "en": "Workshop", "fi": "Paja", "common": "12-14 & 16-18 Zoom"},
+    "paja9": {"date": "2020-10-05", "en": "Workshop", "fi": "Paja", "common": "12-14 & 16-18 Zoom"},
     "paja10": {"date": "2020-10-06", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"},
     "paja11": {"date": "2020-10-12", "en": "Workshop", "fi": "Paja", "common": "12-14 & 16-18 Zoom"},
     "paja12": {"date": "2020-10-13", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"},
