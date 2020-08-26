@@ -72,14 +72,13 @@
 
 # Conduct of the course
 
-<!--
-- Weekly paja is available on thursdays in class BK107 according to the timetable -->
-- Sadly paja can not be organized at this time
+- Weekly workshopw (paja) is available on mondays and tuesdays on class zoom according to the timetable
+    - Mondays 16-18 and 15-16 at least for the ensligh students
     - Personal guidance can be provided on campus or Zoom if requested
     - Not mandatory
     - **Best way to get help from a course assistant**
     - Telegram is not an official source of information but can be useful
-    - TAs in other algorithm courses may also be able to help
+    - Other TAs in paja may also be able to help even if the lab is not explicitly on the agenda at the time
 
 # Conduct of the course
 
