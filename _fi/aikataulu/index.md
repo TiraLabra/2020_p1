@@ -19,7 +19,7 @@ Kolmen peräkkäisen viikkon ajan muuttumaton repositorio tulkitan kurssin keske
         * Juttele tarvittaessa ohjaajan kanssa. Jos toteutat jonkin valmiista aiheista Javalla ja kaikki on selvää, voit siirtyä suoraan määrittelydokumentin kirjoittamiseen. Jos haluat toteuttaa työn täysin omasta aiheesta tai erikoisemmalla kielellä, kannattaa asiasta jutella ennen palautuksen tekemistä.
     * Tustustu kurssimateriaaliin. Lue ainakin [dokumentaatio-ohjeet](../dokumentaatio/) tarkkaan.
     * Dokumentaatio: Määrittelydokumentti valmis.
-    * **<span stule="color:red;">TÄRKEÄÄ!</span>** Muista kirjoittaa määrittelydokumenttiin opinto-ohjelmasi ja projekin kieli!
+    * **<span style="color:red;">TÄRKEÄÄ!</span>** Muista kirjoittaa määrittelydokumenttiin opinto-ohjelmasi ja projekin kieli!
     * Viikkoraportti numero 1: Kirjoitettu ensimmäinen viikkoraportti (ks. [Palautukset](../palautukset/))
     * Katso, että repositoriosi etusivulle on linkattu suoraan viikkoraportit (nopeuttaa tarkastusta huomattavasti). Jos tarvitset apua markdownissa, niin katso GitHubin ohje: [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/). Saat myös apua jos katsot esimerkiksi miten tämä tiedosto on tehty!
     * Projekti: Projekti luotu. Ohjeita tarvittaessa [täältä](../maven-gradle/). Alustettu versionhallinta (Github). Kaikki palautettava lisätään versionhallintaan, sähköpostilla ei palauteta mitään!
