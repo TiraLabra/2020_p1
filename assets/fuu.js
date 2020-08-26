@@ -1,12 +1,17 @@
 const timing = {
     "start": {"date": "2020-09-02", "fi": "Aloitusluento", "en": "Mandatory lecture", "common": "12-14 Zoom"},
-    /*"paja1": {"date": "2020-03-12", "en": "Workshop", "fi": "Paja", "common": "14-16 BK107"},
-    "paja2": {"date": "2020-03-19", "en": "Workshop", "fi": "Paja", "common": "14-16 BK107"},
-    "paja3": {"date": "2020-03-26", "en": "Workshop", "fi": "Paja", "common": "14-16 BK107"},
-    "paja4": {"date": "2020-04-02", "en": "Workshop", "fi": "Paja", "common": "14-16 BK107"},
-    "paja5": {"date": "2020-04-16", "en": "Workshop", "fi": "Paja", "common": "14-16 BK107"},
-    "paja6": {"date": "2020-04-23", "en": "Workshop", "fi": "Paja", "common": "14-16 BK107"},
-    "paja7": {"date": "2020-04-30", "en": "Workshop", "fi": "Paja", "common": "14-16 BK107"},*/
+    "paja1": {"date": "2020-09-07", "en": "Workshop", "fi": "Paja", "common": "12-14 & 16-18 Zoom"},
+    "paja2": {"date": "2020-09-08", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"},
+    "paja3": {"date": "2020-09-14", "en": "Workshop", "fi": "Paja", "common": "12-14 & 16-18 Zoom"},
+    "paja4": {"date": "2020-09-15", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"},
+    "paja5": {"date": "2020-09-21", "en": "Workshop", "fi": "Paja", "common": "12-14 & 16-18 Zoom"},
+    "paja6": {"date": "2020-09-22", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"},
+    "paja7": {"date": "2020-09-28", "en": "Workshop", "fi": "Paja", "common": "12-14 & 16-18 Zoom"},
+    "paja8": {"date": "2020-09-29", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"},
+    "paja9": {"date": "2020-10-04", "en": "Workshop", "fi": "Paja", "common": "12-14 & 16-18 Zoom"},
+    "paja10": {"date": "2020-10-06", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"},
+    "paja11": {"date": "2020-10-12", "en": "Workshop", "fi": "Paja", "common": "12-14 & 16-18 Zoom"},
+    "paja12": {"date": "2020-10-13", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"},
     "dl1": {"date": "2020-09-05T01:59:59+02:00", "en": "DL 1", "fi": "DL 1"},
     "dl2": {"date": "2020-09-12T01:59:59+02:00", "en": "DL 2", "fi": "DL 2"},
     "dl3": {"date": "2020-09-19T01:59:59+02:00", "en": "DL 3", "fi": "DL 3"},
@@ -15,7 +20,7 @@ const timing = {
     "dl6": {"date": "2020-10-10T01:59:59+02:00", "en": "DL 6", "fi": "DL 6"},
     /*"demo": {"date": "2020-06-24", "fi": "Demotilaisuus", "en": "Demo Session", "common": "12-14 Zoom"},
     "demo2": {"date": "2020-06-24", "fi": "Demotilaisuus", "en": "Demo Session", "common": "16-18 Zoom"},*/
-    "end": {"date": "2020-10-17T23:59:59+02:00", "en": "Final submission", "fi": "Loppupalautus"}
+    "end": {"date": "2020-10-24T23:59:59+02:00", "en": "Final submission", "fi": "Loppupalautus"}
 };
 
 const doodleSent = false;
