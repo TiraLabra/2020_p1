@@ -21,7 +21,7 @@ Each document should be approximately 1 to 2 A4 pages in length, disregarding im
 * Expected time and space complexities of the program (big-O notations)
 * Sources
 * Due to administrative practicalities you should also mention your degree programme in the Project Specification. For example, bachelor's in computer science (CS) or bachelors in science (bSc)
-* You should also mention the documentation language you are going to use and have all code, comments and documentation written in this language. Typically Finnish or English. This requirement is due to the code reviews done around the half way point of the course.
+* You should also mention the documentation language you are going to use and have all code, comments and documentation written in this language. Typically Finnish or English. This requirement is due to the code reviews done around the half way point of the course. This hopefully helps keep the internal language of the project consistent.
 
 #### Implementation document
 * Project structure
