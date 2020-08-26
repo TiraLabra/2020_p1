@@ -12,13 +12,14 @@ Vaikka et olisi tehnyt mitään jollakin tietyllä viikolla, kannattaa viikkorap
 
 Kolmen peräkkäisen viikkon ajan muuttumaton repositorio tulkitan kurssin keskeyttämiseksi!
 
-# Viikko 1:
+## Viikko 1:
 
 * Palautus 1: **<script>document.write(fiString(timing["dl1"].date));</script>**
     * Aihe, käytettävä ohjelmointikieli ja työn laajuus päätetty.
         * Juttele tarvittaessa ohjaajan kanssa. Jos toteutat jonkin valmiista aiheista Javalla ja kaikki on selvää, voit siirtyä suoraan määrittelydokumentin kirjoittamiseen. Jos haluat toteuttaa työn täysin omasta aiheesta tai erikoisemmalla kielellä, kannattaa asiasta jutella ennen palautuksen tekemistä.
     * Tustustu kurssimateriaaliin. Lue ainakin [dokumentaatio-ohjeet](../dokumentaatio/) tarkkaan.
     * Dokumentaatio: Määrittelydokumentti valmis.
+    * **<span stule="color:red;">TÄRKEÄÄ!</span>** Muista kirjoittaa määrittelydokumenttiin opinto-ohjelmasi ja projekin kieli!
     * Viikkoraportti numero 1: Kirjoitettu ensimmäinen viikkoraportti (ks. [Palautukset](../palautukset/))
     * Katso, että repositoriosi etusivulle on linkattu suoraan viikkoraportit (nopeuttaa tarkastusta huomattavasti). Jos tarvitset apua markdownissa, niin katso GitHubin ohje: [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/). Saat myös apua jos katsot esimerkiksi miten tämä tiedosto on tehty!
     * Projekti: Projekti luotu. Ohjeita tarvittaessa [täältä](../maven-gradle/). Alustettu versionhallinta (Github). Kaikki palautettava lisätään versionhallintaan, sähköpostilla ei palauteta mitään!
@@ -27,7 +28,7 @@ Kolmen peräkkäisen viikkon ajan muuttumaton repositorio tulkitan kurssin keske
     * Labtoolin [pikaohje](../labtool/)
     * Jos uskot tarvitsevasi lisämateriaalia ja esimerkkejä testaamisesta ja projektin pystyttämisestä, kannattaa tutustua [testing and rmq](https://github.com/TiraLabra/Testing-and-rmq) projektiin jo tässä vaiheessa.
 
-# Viikko 2:
+## Viikko 2:
 
 * Palautus 2: **<script>document.write(fiString(timing["dl2"].date));</script>**
     * [Dokumentaatio](../dokumentaatio/): Kirjoitettu koodi on selkeää ja kommentoitua (esim. Javalla tehdyssä työssä Javadoc-kommentit).
@@ -40,7 +41,7 @@ Kolmen peräkkäisen viikkon ajan muuttumaton repositorio tulkitan kurssin keske
         * Muilla kielillä pitäisi viikoittain laittaa kattavuusraportti jonnekin näkyville. (Esim. codecov tai github pages).
     * Myös checkstyle tai muu vastaava olisi hyvä olla konffattuna jo tässä vaiheessa. Kannattaa jutella ohjaajan kanssa jos laadun seuraamisessa on jotain epäselvää. 
 
-# Viikko 3:
+## Viikko 3:
 
 * Palautus 3: **<script>document.write(fiString(timing["dl3"].date));</script>**
     * [Dokumentaatio](../dokumentaatio/): Kirjoitettu koodi selkeää ja kommentoitua.
@@ -50,7 +51,7 @@ Kolmen peräkkäisen viikkon ajan muuttumaton repositorio tulkitan kurssin keske
     * Viimeistään tässä vaiheessa testikattavuuden olisi oltava käytettävissä viikkotarkastuksissa.
     * Viimeistään tässä vaiheessa checkstylen tai vastaavan koodin laadun seurannan tulisi olla käytössä.
 
-# Viikko 4:
+## Viikko 4:
 
 * Ensimmäiset vertaisarvioinnit jaetaan viikon palautuksen jälkeen. Katso [labtoolista](https://study.cs.helsinki.fi/labtool/) linkki katselmoitavaan repoon. **Vertaisarvionnin deadline on sama kuin viikon 5 deadline.**
 * Ohjeet vertaisarviointiin [täällä](../vertaisarvioinnit/)
@@ -62,7 +63,7 @@ Kolmen peräkkäisen viikkon ajan muuttumaton repositorio tulkitan kurssin keske
     * Ohjelma: Ohjelman ydintoiminta valmis. Omia tietorakenteita aloitettu.
     * Testaus: Koodin *kattava* yksikkötestaus. Aloitettu suorituskyky- tai muu aiheeseen sopiva testaus (kirjoita näistä testausdokumenttiin).
 
-# Viikko 5:
+## Viikko 5:
 
 * Toiset vertaisarvioinnit jaetaan viikon palautuksen jälkeen. Katso [labtoolista](https://study.cs.helsinki.fi/labtool/) linkki katselmoitavaan repoon. **Vertaisarvionnin deadline on sama kuin DL 6.**
 
@@ -73,7 +74,7 @@ Kolmen peräkkäisen viikkon ajan muuttumaton repositorio tulkitan kurssin keske
    * Ohjelma: Ohjelman ydintoiminta valmis. Omia tietorakenteita aloitettu.
    * Testaus: Koodin *kattava* yksikkötestaus. Aloitettu suorituskyky- tai muu aiheeseen sopiva testaus.
 
-# Viikko 6:
+## Viikko 6:
 
 * Palautus 6: **<script>document.write(fiString(timing["dl6"].date));</script>**
    * **Toinen vertaisarviointi tehtynä** (löydät linkin katselmoitavaan repoon [labtoolista](https://study.cs.helsinki.fi/labtool/))
@@ -82,7 +83,7 @@ Kolmen peräkkäisen viikkon ajan muuttumaton repositorio tulkitan kurssin keske
    * Ohjelma: Tietorakenteet ja algoritmit toteutettu itse.
    * Testaus: Koodin *kattava* yksikkötestaus. Suorituskykytestausta tehty.
 
-# Demotilaisuus:
+## Demotilaisuus:
 
 <ul>
   <li id="demo" />
@@ -108,7 +109,7 @@ Kolmen peräkkäisen viikkon ajan muuttumaton repositorio tulkitan kurssin keske
   }
 </script>
 
-# LOPULLINEN PALAUTUS
+## LOPULLINEN PALAUTUS
 
 **<script>document.write(fiString(timing["end"].date));</script>**
 
