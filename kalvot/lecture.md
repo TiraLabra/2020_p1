@@ -72,8 +72,8 @@
 
 # Conduct of the course
 
-- Weekly workshopw (paja) is available on mondays and tuesdays on class zoom according to the timetable
-    - Mondays 16-18 and 15-16 at least for the ensligh students
+- Weekly workshopw (paja) is available on mondays and tuesdays on zoom according to the timetable
+    - Mondays 16-18 and tuesdays 14-16, there will be help avaialable in English
     - Personal guidance can be provided on campus or Zoom if requested
     - Not mandatory
     - **Best way to get help from a course assistant**
@@ -115,5 +115,5 @@
 
 - **Welcome to the course!**
 - Most information about the course can be found at: https://tiralabra.github.io/2020_p1/en
-    - It's a good idea to read throught the entire site!
-- I will stay for a wihle to answer any questions you may have!
+    - It's a good idea to read through the entire site!
+- I will stay for a while to answer any questions you may have!
