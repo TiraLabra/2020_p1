@@ -77,7 +77,7 @@ No repository acitivy for 3 consecutive weeks is usually interpreted as a studen
 # Week 6:
 
 * Submission 6: **<script>document.write(enString(timing["dl6"].date));</script>**
-   * **The first code review is completed**. (See [Labtool](https://study.cs.helsinki.fi/labtool/) for link to repository)
+   * **The second code review is completed**. (See [Labtool](https://study.cs.helsinki.fi/labtool/) for link to repository)
    * [Documentation](../documentation/): Written code is clear and commented. Mostly done with testing and implementation documentation.
    * Week 6 report.
    * Program: Data structures and algorithms implemented from scratch.
