@@ -24,7 +24,7 @@ While developing, use `bundle exec jekyll serve --incremental` to locally test t
 On GitHub it's not possible to have forks of repositories in the same organization. So to set up a new course, a new repository must be created, and the contents of a previous course copied into the new repository.
 
 ```bash
-<new repo>$ cp -r ../<old repo> .
+<new repo>$ cp -r ../<old repo>/* .
 <new repo>$ cp ../.gitignore .
 <new repo>$ git add .gitignore
 <new repo>$ git add .
