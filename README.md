@@ -2,7 +2,7 @@
 
 # TL/DR
 
-When setting up a new course the idea is that it's enough to fork/copy this repo and update the relevant info in `_config.yml` and `assets/fuu.js`, and publish github pages.
+When setting up a new course the idea is that it's enough to fork/copy this repo and update the relevant info in `_config.yml` and `assets/fuu.js`, and publish **GitHub Pages**.
 
 In `_config.yml` at least the following need to be changed:
 * tile/entitle
@@ -21,7 +21,7 @@ While developing, use `bundle exec jekyll serve --incremental` to locally test t
 
 ## 1. Creating course environment
 
-On github it's not possible to have forks of repositories in the same organization. So to set up a new course, a new repository must be created, and the contents of a previous course copied into the new repository.
+On GitHub it's not possible to have forks of repositories in the same organization. So to set up a new course, a new repository must be created, and the contents of a previous course copied into the new repository.
 
 ```bash
 <new repo>$ cp -r ../<old repo> .
@@ -121,7 +121,7 @@ Then push changes to git:
 
 The `github.io` should become available after a while.
 
-**<span style="color:red">Note:</span>** After this point is is convenient to modify the course pages using the file editing functionality on github.
+**<span style="color:red">Note:</span>** After this point it is convenient to modify the course pages using the file editing functionality on github.
 
 ## 5. Updating the site during the course
 
